@@ -1,0 +1,51 @@
+﻿Build started 12/20/2015 6:15:41 PM.
+     1>Project "D:\Level 1 Term 2\Igraphics\IGraphics\IGraphics\IGraphics.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\IGraphics.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\inefficient_iGraphics\IGraphics\totally_new.cpp
+         totally_new.cpp
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\igraphics.h(104): warning C4101: 'k' : unreferenced local variable
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(92): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(113): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(168): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(204): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(241): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(277): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(9346): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(9356): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(9379): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(9413): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(9417): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(9439): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(9448): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(9456): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>d:\level 1 term 2\inefficient_igraphics\igraphics\totally_new.cpp(9444): warning C4101: 'my_name' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Level 1 Term 2\Igraphics\IGraphics\Debug\IGraphics.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\IGraphics.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Level 1 Term 2\Igraphics\IGraphics\Debug\IGraphics.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Level 1 Term 2\Igraphics\IGraphics\Debug\IGraphics.lib" /MACHINE:X86 Debug\totally_new.obj
+         LINK : D:\Level 1 Term 2\Igraphics\IGraphics\Debug\IGraphics.exe not found or not built by the last incremental link; performing full link
+         IGraphics.vcxproj -> D:\Level 1 Term 2\Igraphics\IGraphics\Debug\IGraphics.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Level 1 Term 2\Igraphics\IGraphics\Debug\IGraphics.exe;#1" /manifest Debug\IGraphics.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\IGraphics.unsuccessfulbuild".
+         Touching "Debug\IGraphics.lastbuildstate".
+     1>Done Building Project "D:\Level 1 Term 2\Igraphics\IGraphics\IGraphics\IGraphics.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.38
